@@ -1,6 +1,7 @@
 # 💫 About Me:
 Currently working as a Front-End Developer.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=auliarahman789&label=Profile%20views&color=0e75b6&style=flat" alt="auliarahman789" /> </p>
 
 # 💻 Tech Stack:
 <p align="left" style="background-color: white; padding: 10px; border-radius: 5px;">
@@ -51,3 +52,5 @@ Currently working as a Front-End Developer.
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=auliarahman789&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=auliarahman789&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=auliarahman789&show_icons=true&locale=en" alt="auliarahman789" /></p>
